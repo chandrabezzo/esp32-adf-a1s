@@ -1,6 +1,6 @@
 
 # Ai-Thinker AudioKit Board SDK
-
+Clone ESP32-Idf as esp-idf using https://github.com/chandrabezzo/esp32-idf-a1s.git in this folder.
 
 EN | [中文](./README-zh.md)
 
@@ -11,6 +11,7 @@ EN | [中文](./README-zh.md)
 This framework is based on the second development of the ESPRESSIF audio framework esp-adf and follows the official open source agreement
 
 ## Overview
+
 
 The framework is also suitable for the company's official development board such as esp-lyart, which also easily adds functions in the most comprehensive way, from simple to complex development of audio applications
 
